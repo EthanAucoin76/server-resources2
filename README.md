@@ -1,2 +1,1 @@
-# server-resources2
-server
+# how-to-use-the-server
